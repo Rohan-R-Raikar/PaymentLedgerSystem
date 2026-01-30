@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="DTOs\" />
+    <Folder Include="Authorization\" />
+    <Folder Include="Responses\" />
+    <Folder Include="Security\" />
+  </ItemGroup>
+
 </Project>
